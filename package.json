@@ -17,6 +17,7 @@
   "homepage": "https://github.com/IsaqueLemos/DataTXT#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
+    "path": "^0.12.7",
     "prompt-sync": "^4.2.0"
   },
   "devDependencies": {
